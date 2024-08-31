@@ -37,13 +37,6 @@ Docker のインストールや環境構築に関する参考情報が必要な�
 - [だれでもできるノード構築](https://note.com/kagebunchin/n/nfb21d2055a5e)
 - [初めて Contabo を使って Docker 環境をつくる](https://note.com/kosk_t/n/n39bd6ba6cef9)
 
-Docker が正しくインストールされていることを確認するには、以下のコマンドをターミナルで実行します：
-
-```bash
-sudo docker ps
-```
-
-このコマンドを実行すると、実行中の Docker コンテナの一覧が表示されます。
 
 Docker のインストールが完了したら、次のステップに進んでください
 
