@@ -42,7 +42,7 @@ Docker のインストールが完了したら、次のステップに進んで�
 
 ## 3. validator.env ファイルの作成
 
-1. [validator.env サンプル](https://example.com/validator-env-sample)をダウンロードします。
+1. [validator.env サンプル](https://files.elixir.finance/validator.env)をダウンロードします。
 
 2. ダウンロードした場合は、ファイルを編集します。手動で作成する場合は、以下のコマンドを使用します:
 
