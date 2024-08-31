@@ -71,7 +71,7 @@ Docker のインストールが完了したら、次のステップに進んで�
 
 ## 4. バリデーターの登録
 
-1. [Alchemy Sepolia Faucet](https://sepoliafaucet.com/)にアクセスし、MOCK トークンをミントします。
+1. [Alchemy Sepolia Faucet](https://sepoliafaucet.com/)にアクセスし、   gasになるethトークンをgetします。
 2. [Elixir Network Testnet v3 ダッシュボード](https://testnet.elixir.finance/)に移動し、ウォレットを接続します。
 3. 右上の「MINT 1,000 MOCK」ボタンをクリックします。
 4. MOCK トークンをステークし、バリデーターを登録します。
